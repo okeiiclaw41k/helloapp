@@ -1,0 +1,14 @@
+D:\KAKIE TO PROJECTS\git-takes-two\helloapp-black\GitTakesTwo\bin\Debug\net9.0\GitTakesTwo.exe
+D:\KAKIE TO PROJECTS\git-takes-two\helloapp-black\GitTakesTwo\bin\Debug\net9.0\GitTakesTwo.deps.json
+D:\KAKIE TO PROJECTS\git-takes-two\helloapp-black\GitTakesTwo\bin\Debug\net9.0\GitTakesTwo.runtimeconfig.json
+D:\KAKIE TO PROJECTS\git-takes-two\helloapp-black\GitTakesTwo\bin\Debug\net9.0\GitTakesTwo.dll
+D:\KAKIE TO PROJECTS\git-takes-two\helloapp-black\GitTakesTwo\bin\Debug\net9.0\GitTakesTwo.pdb
+D:\KAKIE TO PROJECTS\git-takes-two\helloapp-black\GitTakesTwo\obj\Debug\net9.0\GitTakesTwo.GeneratedMSBuildEditorConfig.editorconfig
+D:\KAKIE TO PROJECTS\git-takes-two\helloapp-black\GitTakesTwo\obj\Debug\net9.0\GitTakesTwo.AssemblyInfoInputs.cache
+D:\KAKIE TO PROJECTS\git-takes-two\helloapp-black\GitTakesTwo\obj\Debug\net9.0\GitTakesTwo.AssemblyInfo.cs
+D:\KAKIE TO PROJECTS\git-takes-two\helloapp-black\GitTakesTwo\obj\Debug\net9.0\GitTakesTwo.csproj.CoreCompileInputs.cache
+D:\KAKIE TO PROJECTS\git-takes-two\helloapp-black\GitTakesTwo\obj\Debug\net9.0\GitTakesTwo.dll
+D:\KAKIE TO PROJECTS\git-takes-two\helloapp-black\GitTakesTwo\obj\Debug\net9.0\refint\GitTakesTwo.dll
+D:\KAKIE TO PROJECTS\git-takes-two\helloapp-black\GitTakesTwo\obj\Debug\net9.0\GitTakesTwo.pdb
+D:\KAKIE TO PROJECTS\git-takes-two\helloapp-black\GitTakesTwo\obj\Debug\net9.0\GitTakesTwo.genruntimeconfig.cache
+D:\KAKIE TO PROJECTS\git-takes-two\helloapp-black\GitTakesTwo\obj\Debug\net9.0\ref\GitTakesTwo.dll
