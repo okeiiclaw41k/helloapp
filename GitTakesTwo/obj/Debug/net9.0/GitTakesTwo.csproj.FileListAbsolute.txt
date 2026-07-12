@@ -12,3 +12,4 @@ D:\KAKIE TO PROJECTS\git-takes-two\helloapp-black\GitTakesTwo\obj\Debug\net9.0\r
 D:\KAKIE TO PROJECTS\git-takes-two\helloapp-black\GitTakesTwo\obj\Debug\net9.0\GitTakesTwo.pdb
 D:\KAKIE TO PROJECTS\git-takes-two\helloapp-black\GitTakesTwo\obj\Debug\net9.0\GitTakesTwo.genruntimeconfig.cache
 D:\KAKIE TO PROJECTS\git-takes-two\helloapp-black\GitTakesTwo\obj\Debug\net9.0\ref\GitTakesTwo.dll
+D:\KAKIE TO PROJECTS\git-takes-two\helloapp-black\GitTakesTwo\obj\Debug\net9.0\GitTakesTwo.sourcelink.json
